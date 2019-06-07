@@ -8,7 +8,7 @@ h1{
             }
             body{
                 color:darkslateblue;
-                background:<img src="pic.jpg" width="100">;
+                background-image:url(pic.jpg);
             }
             #hobby{
                 color:darkmagenta;
