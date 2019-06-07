@@ -1,0 +1,19 @@
+h1{
+             
+                color:brown;
+            }
+            h2{
+                color:chocolate;
+                
+            }
+            body{
+                background:#2C3A47;
+}
+.box{
+    background-image:url(pic.jpg);
+    margin:75px;
+    padding:50px;
+}
+#image{
+    border: 5px solid black;
+}
