@@ -9,6 +9,8 @@ h1{
             body{
                 color:darkslateblue;
                 background-image:url(pic.jpg);
+                margin: 50px;
+                padding: 50px;
             }
             #hobby{
                 color:darkmagenta;
