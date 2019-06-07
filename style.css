@@ -8,7 +8,7 @@ h1{
             }
             body{
                 color:darkslateblue;
-                background-image:url(pic.jpg);
+                background:lime;
                 margin: 50px;
                 padding: 50px;
             }
